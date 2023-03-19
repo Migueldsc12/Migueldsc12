@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning Java
 
-- 👀 I’m interested in a lot of programming lenguages, cyber security and I.A
+- 👀 I’m interested in a lot of programming lenguages, Cyber Security and I.A
 
 <div align ="left">
     <h3>Languages and Tools:</h3>
