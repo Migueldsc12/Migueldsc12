@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently studying Software enginneer at Simon Bolivar University.
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Angular and MongoDB
 
 - 👀 I’m interested in a lot of programming lenguages, Cyber Security and I.A
 
