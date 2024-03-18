@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning Angular and MongoDB
 
-- 👀 I’m interested in a lot of programming lenguages, Cyber Security and I.A
+- 👀 I’m interested in a data structures and algorithms, Cyber Security and I.A
 
 <div align ="left">
     <h3>Languages and Tools:</h3>
