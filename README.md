@@ -30,5 +30,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt ="angular" width = "40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt ="angular" width = "40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt ="angular" width = "40" height="40">
     </div>
 </div>
