@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently studying Software enginneer at Simon Bolivar University.
 
-- 🌱 I’m currently learning Angular and MongoDB
+- 🌱 I’m FrontEnd Developer at UBUD Technology & [Market Street Labs](https://marketstreetlabs.com/)
 
 - 👀 I’m interested in a data structures and algorithms, Cyber Security and I.A
 
@@ -33,3 +33,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt ="angular" width = "40" height="40">
     </div>
 </div>
+
+### Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Migueldsc12&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/Migueldsc12?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Migueldsc12&layout=compact&bg_color=0d1117&title_color=ffffff&icon_color=00bfff&text_color=FFFFFF)](https://github.com/Migueldsc12?tab=repositories)
+
