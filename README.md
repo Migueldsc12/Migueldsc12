@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently studying Software enginneer at Simon Bolivar University.
 
-- 🌱 I’m FrontEnd Developer at UBUD Technology & [Market Street Labs](https://marketstreetlabs.com/)
+- 🌱 I’m FrontEnd Developer at [Market Street Labs](https://marketstreetlabs.com/)
 
 - 👀 I’m interested in a data structures and algorithms, Cyber Security and I.A
 
