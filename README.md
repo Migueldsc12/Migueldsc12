@@ -13,7 +13,7 @@
 
 ### About me:
 
-- 🔭 I’m currently studying Software enginneer at Simon Bolivar University.
+- 🔭 I’m currently studying Software engineer at Simon Bolivar University.
 
 - 🌱 I’m FrontEnd Developer at [Market Street Labs](https://marketstreetlabs.com/)
 
